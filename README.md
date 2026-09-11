@@ -34,13 +34,7 @@ My journey of becoming a production-ready software engineer.
 
 ## 🛠️ Projects
 
-| Project | Stack | Status |
-|---|---|---|
-| Project 1 | React + Node | 🚧 |
-| Project 2 | Node + Docker | ⏳ |
-| Final Project | Full Stack + DevOps + AI | ⏳ |
-
----
+SOON...
 
 ## 📚 Documentation
 
