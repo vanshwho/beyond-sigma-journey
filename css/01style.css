@@ -1,0 +1,25 @@
+h1 { 
+
+color: red; 
+background-color: aqua;
+
+}
+
+/* for select any id, use #
+for select any class, use . (dot)
+for select any id, use  */
+
+#firstH1 {
+
+    color: blue;
+}
+
+#secondh1 {
+
+    color: bisque;
+}
+
+.colour-change {
+
+    color: brown;
+}
