@@ -1,0 +1,10 @@
+.some{
+
+    background-color: red !important ;  /* specificity means giving importance */
+}
+
+.c2 {
+
+
+    background-color: green;
+} 
