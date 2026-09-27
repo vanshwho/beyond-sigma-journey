@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+html,
+body {
+
+    height: 100%;
+    width: 100%;
+
+}
+
+/* main{
+
+    height: 50vw;
+    width: 90vw;
+    background-color: black;
+} */
+
+main{
+
+    height: 50vmin;
+    width: 90vmin;
+    background-color: black;
+}
+/* 
+main{
+
+    height: 50vmin;
+    width: 90vmin;
+    background-color: black;
+} */
+/* 
+main{
+
+    height: 50vmax;
+    width: 90vmax;
+    background-color: black;
+} */
+
+
+/* main{
+
+    height: 50vh;
+    width: 90vh;
+    background-color: black;
+} */
+
+
+/* main{
+
+    height: 50%;
+    width: 30%;
+    background-color: black;
+} */
+
+.box {
+
+    height: 50%;
+    width: 50%;
+    background-color: red ;
+}
